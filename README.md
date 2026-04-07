@@ -22,7 +22,8 @@
 ![Login](images/login.png)
 
 ### 📞 Contact
-![Contact](images/contact.png)
+![Contact](images/contact1.png)
+![Contact](images/contact1.png)
 
 
 
