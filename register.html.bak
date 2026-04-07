@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+ </head>
+ <body>
+  <center><h1>Registration Form</h1></center>
+
+<form>
+    Name: <input type="text"><br><br>
+    Email: <input type="email"><br><br>
+    Phone: <input type="text"><br><br>
+    Address: <input type="text"><br><br>
+    Username: <input type="text"><br><br>
+    Password: <input type="password"><br><br>
+
+    <input type="submit">
+    <input type="reset">
+
+</form>
+ </body>
+</html>
