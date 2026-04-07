@@ -4,13 +4,13 @@
 ## 📸 Website Screenshots
 
 ### 🏠 Home Page
-![Home](images/index.png)
+![Home](images/home.png)
 
 ### 🌍 Destinations
-![Destinations](images/destinations.png)
+![Destinations](images/destination.png)
 
 ### ✈️ Travel
-![Travel](images/travel.png)
+![Travel](images/blog.png)
 
 ### 💡 Tips
 ![Tips](images/tips.png)
