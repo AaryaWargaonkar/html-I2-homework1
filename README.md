@@ -23,7 +23,7 @@
 
 ### 📞 Contact
 ![Contact](images/contact1.png)
-![Contact](images/contact1.png)
+![Contact](images/contact2.png)
 
 
 
